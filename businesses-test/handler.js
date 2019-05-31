@@ -2,7 +2,7 @@
 
 require('dotenv').config({ path: './variables.env' });
 const connectToDatabase = require('./db');
-const Note = require('./models/Note');
+const Note = require('./models/note.js');
 
 module.exports.create = (event, context, callback) => {
   context.callbackWaitsForEmptyEventLoop = false;
