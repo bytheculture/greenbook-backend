@@ -1,0 +1,12 @@
+[submodule "greenbook-events"]
+	path = greenbook-events
+	url = https://github.com/bytheculture/greenbook-events.git
+[submodule "greenbook-freelancer"]
+	path = greenbook-freelancer
+	url = https://github.com/bytheculture/greenbook-freelancer.git
+[submodule "greenbook-user"]
+	path = greenbook-user
+	url = https://github.com/bytheculture/greenbook-user.git
+[submodule "greenbook-helpNeeded"]
+	path = greenbook-helpNeeded
+	url = https://github.com/bytheculture/greenbook-helpNeeded.git
